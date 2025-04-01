@@ -7,6 +7,9 @@ surname = "Logique"
 
 student_name = name + " " + surname
 
+a = 10
+b = 5
+c = a - b
+
 print(studentt_name)
-print(x)
-print(y)
+
