@@ -41,5 +41,20 @@ else:
   print("FALSE")
 
 
+def compare(x , y):
+  if y > x:
+    return TRUE
+  return FALSE
+
+print(compare(200,300))
 
 
+#2. Write IF ELSE Statement to validate if x is larger than y and less than b. Return TRUE if YES.
+
+def compare2(x , y, b):
+  if x > y and x < b :
+    return TRUE
+  return FALSE
+
+
+print(compare2(200,300,50))
