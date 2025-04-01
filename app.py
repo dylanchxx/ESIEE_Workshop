@@ -23,5 +23,13 @@ e = a % b
 #a ^^ b 
 #a && b
 
-print(studentt_name)
+print(student_name)
+
+
+#TASK
+
+#1. Write IF ELSE Statement to validate if x is larger than y. Return TRUE if YES.
+
+
+
 
