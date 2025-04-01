@@ -2,6 +2,9 @@ x = 150
 y = "Marceille"
 
 z = x + y
+
+
+#Python is using indents
 name = "Anna"
 surname = "Logique"
 
