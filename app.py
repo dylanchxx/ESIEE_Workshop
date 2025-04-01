@@ -1,5 +1,5 @@
-x = 150
-y = "Marceille"
+#x = 150
+#y = "Marceille"
 
 z = x + y
 
@@ -29,6 +29,16 @@ print(student_name)
 #TASK
 
 #1. Write IF ELSE Statement to validate if x is larger than y. Return TRUE if YES.
+
+x = 5
+y = 4
+
+if x > y:
+  print("TRUE")
+elif x == y:
+  print("equal")
+else:
+  print("FALSE")
 
 
 
